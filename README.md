@@ -1,1 +1,4 @@
 # polishing
+
+dependencies :
+- seqrequester
